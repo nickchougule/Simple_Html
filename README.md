@@ -1,2 +1,2 @@
 # Simple_Html
-HTML teached by EZSnippet.
+HTML taught by EZSnippet.
